@@ -1,0 +1,17 @@
+{
+  "name": "superagent-oauth",
+  "repo": "tipm/superagent-oauth",
+  "description": "superagent oauth helper",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+    "visionmedia/superagent": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "superagent-oauth.js",
+  "scripts": [
+    "superagent-oauth.js",
+  ],
+  "remotes": []
+}
